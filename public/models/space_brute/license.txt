@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space Brute
+* source:	https://sketchfab.com/3d-models/space-brute-7efb3e001fe0439ba54af87146f830c1
+* author:	nataliedesign (https://sketchfab.com/nataliedesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space Brute" (https://sketchfab.com/3d-models/space-brute-7efb3e001fe0439ba54af87146f830c1) by nataliedesign (https://sketchfab.com/nataliedesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
