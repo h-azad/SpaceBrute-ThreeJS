@@ -40,14 +40,14 @@ function CanvasComponent() {
             />
           </PerspectiveCamera>
           {/* <fog attach="fog" color="hotpink" near={1} far={10} /> */}
-          <group>
+          {/* <group>
             <primitive
               object={model_2.scene}
               scale={0.001}
               position={[15, 6, 3]}
               rotation={[0.5, 0.5, 0.0]}
             />
-          </group>
+          </group> */}
           <Physics>
             <SpaceBrute />
           </Physics>
